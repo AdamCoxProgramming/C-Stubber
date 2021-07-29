@@ -1,0 +1,13 @@
+{
+    "inputDirectory": "./input",
+    "outputDirectory": "./output",
+    "mainFileName": "test_system_main",
+    "testsFolder": "/app/system_tests",
+    "sourceDir" : "/app",
+    "dontSyncDirs": [
+        ".svn",
+        "TermIO_Frog_and_Clog.log",
+        "Obj",
+        "Exe"
+    ]
+}

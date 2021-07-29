@@ -1,0 +1,17 @@
+{
+  "name": "autostubcreation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "stub": "node main.js"
+  },
+  "dependencies": {
+    "fs-extra": "^7.0.1",
+    "lodash": "^4.17.10",
+    "recursive-readdir-synchronous": "0.0.4",
+    "sync-directory": "^2.0.7"
+  }
+}
